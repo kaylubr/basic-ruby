@@ -10,4 +10,3 @@ def substrings(word, dictionary)
   end
 end
 
-substrings()
